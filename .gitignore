@@ -1,0 +1,23 @@
+# Base SQLite
+db.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+env/
+venv/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Django specific
+*.log
+staticfiles/
+media/
